@@ -2,7 +2,6 @@
 import React from "react";
 
 //* Importing the Home component from "@/components/Home". The '@' alias usually points to the 'src' or 'source' directory in your project structure.
-import Home from "@/components/Home";
 import Homepage from "@/components/Homepage";
 
 //* Declaring the HomePage component as a functional component (React.FC) with TypeScript. React.FC stands for Functional Component, it's a type provided by React for functional components.

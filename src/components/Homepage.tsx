@@ -5,7 +5,6 @@ import Navbar from "./Navbar";
 import Social from "./Socialicon";
 import Footer from "./Footer";
 import Imgcomponent from "./Images";
-
 const Homepage = () =>{
     return(
         <>
